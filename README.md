@@ -9,6 +9,8 @@ Take HTML and CSS to create a dashboard showing off the analysis we've done.
 
 ### Latitude - Latitude Analysis Dashboard website
 
+[Website Latitude Finished](https://tonyzhao668.github.io/web_design_challenge/index.html)
+
 Create a visualization dashboard website using visualizations made before and data (Resources/cities.csv).
 
 ### Website is included the follows:
