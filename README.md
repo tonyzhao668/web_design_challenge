@@ -36,3 +36,4 @@ The website consists of 7 pages total, including:
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
   
+## Job done!
